@@ -11,3 +11,9 @@
 3. select Seperate_tab.bas
 4. press 'f5' to run module.
 ![Screen Shot 2022-08-16 at 3 38 21 PM](https://user-images.githubusercontent.com/26727926/184813777-a2c10070-c33c-4c3e-858e-459be1848f08.png)
+
+# For Example
+- DirectoryPath := /Users/byeoungwoolee/Desktop/monitorapp/excel
+- Filename : 5_1_12_domainlist.xlsx
+- SheetName : JP-R23-E2
+- **EX) /Users/byeoungwoolee/Desktop/monitorapp/excel/5_1_12_domainlist_JP-R23-E2.xlsx**
