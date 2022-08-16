@@ -1,5 +1,5 @@
-Attribute VB_Name = "Module1"
-Sub Separate_Tab()
+Attribute VB_Name = "Savebytab"
+Sub Savebytab()
 
 Dim Directory_Path As String
 Directory_Path = Application.ActiveWorkbook.Path
